@@ -1,0 +1,6 @@
+{
+  "name": "BharatConnect",
+  "description": "A decentralized digital public infrastructure platform for public services, local merchants, delivery routing, and influencer-led marketing in India with direct UPI split payouts and DPDP compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
